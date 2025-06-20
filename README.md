@@ -3,7 +3,7 @@
 ## I'm a Frontend Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Deep dive into web
+- 🥅 2025 Goals: Deep dive into web
 - ⚡ Fun fact: I love to read
 
 ### Connect with me:
